@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+dataset_generated/
+model/
+input/
+result/
+comparison_results/
+
+*.npy
+*.npz
+*.keras
+*.h5
